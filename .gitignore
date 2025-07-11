@@ -27,3 +27,4 @@ venv/
 *.log
 
 venv/
+notebooks/data/cache/
